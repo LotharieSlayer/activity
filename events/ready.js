@@ -23,7 +23,7 @@ async function loadPresence( client ){
     const { presence } = require("../utils/enmapUtils")
 	setInterval(() => {
 		// Met la phrase dans le statut du bot.
-        client.user.setActivity(presence.randomKey(1)[0], { type: ActivityType.Watching });
+        client.user.setActivity(presence.randomKey(1)[0], { type: ActivityType.Custom });
     }, 10000);
 }
 
