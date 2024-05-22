@@ -52,13 +52,11 @@ exports.STATES = [
     "Regarde la biscotte de Squalala",
     "Regarde lotha bourré au rosé...",
     "Regarde, c'est encore un troll de pozor",
-    "Apprend à Coder comme une merde",
+    "Apprend à coder comme une merde",
     "Apprend à faire des memes nsfw évidemment",
     "Dit, que c'était mieux avant",
     "Dit, que la retraite à 64 ans, ce n'est pas ouf",
     "Dit, qu'une de perdu, aucune de retrouvée", 
-    "Essaye d'être aussi beauf que Tibo",
-    "Apprend à être aussi aigri que bb Sard",
     "A besoin de bol"
     
 ];
