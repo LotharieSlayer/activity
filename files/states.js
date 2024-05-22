@@ -26,7 +26,7 @@ exports.STATES = [
     "Regarde Gérard, démonter la chinoise qui ressemble à Xavier.",
     "Regarde le guide utilisateur d'une AK-47.",
     "Regarde ta daronne se faire démonter par le chieng de FM.",
-    "Regarde L'Ascension de ZERATOR PCQ C'EST TROP BIEN WTF",
+    "Regarde la TM CUP DE ZERATOR PCQ C'EST TROP BIEN WTF",
     "Regarde si Kermit ne serait pas intelligent dans le dernier pourcentage de son cerveau.",
     "Regarde le channel #🍑nsfw disponible au niveau 5, car il est un petit cochon.",
     "Regarde là-bas voir si j'y suis.",
