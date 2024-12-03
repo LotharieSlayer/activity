@@ -8,9 +8,12 @@ exports.STATES = [
     "le stream de Lotharie sur twitch.tv/lotharie !",
     "le stream de Lotharie sur twitch.tv/lotharie !",
     "le stream de Lotharie sur twitch.tv/lotharie !",
+    "Lotharie est sur Bluesky https://bsky.app/profile/lotharie.net !",
+    "Lotharie est sur Bluesky https://bsky.app/profile/lotharie.net !",
+    "Lotharie est sur Bluesky https://bsky.app/profile/lotharie.net !",
     "le Bluesky de FRANCE MEMES, trodébar ! - https://bsky.app/profile/francememes.bsky.social",
     "le Bluesky de FRANCE MEMES, trodébar ! - https://bsky.app/profile/francememes.bsky.social",
-    "le Twitter de FRANCE MEMES, trodébar ! - https://twitter.com/francememes_",
+    "le Twitter de FRANCE MEMES ! - https://twitter.com/francememes_",
     
     //MEMES
     "si Lotharie ne se chie pas dessus...",
