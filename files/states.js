@@ -8,8 +8,8 @@ exports.STATES = [
     "le stream de Lotharie sur twitch.tv/lotharie !",
     "le stream de Lotharie sur twitch.tv/lotharie !",
     "le stream de Lotharie sur twitch.tv/lotharie !",
-    "le Twitter de FRANCE MEMES, trodébar ! - https://twitter.com/francememes_",
-    "le Twitter de FRANCE MEMES, trodébar ! - https://twitter.com/francememes_",
+    "le Bluesky de FRANCE MEMES, trodébar ! - https://bsky.app/profile/francememes.bsky.social",
+    "le Bluesky de FRANCE MEMES, trodébar ! - https://bsky.app/profile/francememes.bsky.social",
     "le Twitter de FRANCE MEMES, trodébar ! - https://twitter.com/francememes_",
     
     //MEMES
@@ -18,7 +18,7 @@ exports.STATES = [
     "2 Girls, 1 Cup",
     "What The Cut, épisode 17"
     "Jean Castex stream sur Twitch",
-    "bb Sardoche <3",
+    "Sonic my beloved <3",
     "Pyrorca en prison",
     ", un modo sauvage apparaît !",
     "une guerre civil créé par les admins.",
@@ -31,7 +31,7 @@ exports.STATES = [
     "là-bas voir si j'y suis.",
     "si Pornhub est fermé à cause de l'état.",
     "Macron avoir sa nouvelle propagande sur la chaîne de McFly et Carlito",
-    "Game of Thrones sur Salto",
+    "Game of Thrones sur MolotovTV",
     "son plat de lasagnes en train de réchauffer !",
     "sa nouvelle paire de TN",
     "les chats trop mignons",
