@@ -19,7 +19,7 @@ exports.STATES = [
     "si Lotharie ne se chie pas dessus...",
     "pas ta mère ! UwU", 
     "2 Girls, 1 Cup",
-    "What The Cut, épisode 17"
+    "What The Cut, épisode 17",
     "Jean Castex stream sur Twitch",
     "Sonic my beloved <3",
     "Pyrorca en prison",
@@ -44,7 +44,7 @@ exports.STATES = [
     "il est RÉMI, bouuuuuuuuuuuh !",
     "! je joue avec mon zgueg !",
     " Dans la valééeee oheeeohh",
-    "lotharie avec son magnifique DJ Set"
+    "lotharie avec son magnifique DJ Set",
     ", traverse la rue et tu trouveras du travail.",
     "la vraie fin de One Piece sur Crunchyroll (et ouais)",
     "Siphano insulter des arabes sur Fallen Kingdom",
@@ -59,5 +59,4 @@ exports.STATES = [
     "les fleurs de Maelys",
     "La course automobile chez Terry",
     "c'est encore un troll de pozor"
-
 ];
